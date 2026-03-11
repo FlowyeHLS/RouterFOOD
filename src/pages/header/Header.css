@@ -1,0 +1,6 @@
+.right > ul
+{
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+}

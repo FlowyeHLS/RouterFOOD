@@ -1,0 +1,11 @@
+/* .list
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.content .list .card
+{
+    width: 300px;
+} */
